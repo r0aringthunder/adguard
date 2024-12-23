@@ -4,3 +4,4 @@
 ! Version: 1.0.0.0
 !
 ||afs.googlesyndication.com^
+||sessions.bugsnag.com^
