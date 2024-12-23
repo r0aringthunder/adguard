@@ -5,3 +5,10 @@
 !
 ||afs.googlesyndication.com^
 ||sessions.bugsnag.com^
+||browser.sentry-cdn.com^
+||app.gensentry.com^
+||ads.pintrest.com^
+||udc.yahoo.com^
+||partnerads.ysm.yahoo.com^
+||adtech.yahooinc.com^
+||appmetrica.yandex.ru^
